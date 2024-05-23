@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="de_project_title"><![CDATA[La Plaza de La Vigia - No te pierdas este Tour Virtual!]]></data>
+  <data name="de_project_author_name"><![CDATA[Camilo Hdez.Perez]]></data>
+
+
+
+  <data name="de_pano20_title"><![CDATA[La Plaza de la Vigía]]></data>
+  <data name="de_spotpoint24_tooltip"><![CDATA[Ir a Taberna LA VIGIA]]></data>
+  <data name="de_spotpoint33_tooltip"><![CDATA[Ir al Monumento del Soldado]]></data>
+  <data name="de_spotpoint56_tooltip"><![CDATA[Ir al centro de la plaza]]></data>
+  <data name="de_spotpicture189_tooltip"><![CDATA[Insignia de monumento]]></data>
+  <data name="de_spotpoint438_tooltip"><![CDATA[Haga clic en la insignia para acercar]]></data>
+
+
+  <data name="de_pano22_title"><![CDATA[Edificio de La Vigía]]></data>
+  <data name="de_spotpoint29_tooltip"><![CDATA[Ir a insignia de monumento]]></data>
+
+
+  <data name="de_pano31_title"><![CDATA[Monumento al Soldado Desconocido]]></data>
+  <data name="de_spotpoint34_tooltip"><![CDATA[Ir a insignia de monumento]]></data>
+  <data name="de_spotpoint35_tooltip"><![CDATA[Ir a la Estacion de Bomberos]]></data>
+  <data name="de_spotpoint314_tooltip"><![CDATA[Ir al sur de la plaza]]></data>
+
+
+  <data name="de_pano36_title"><![CDATA[Estacion de Bomberos Enrique Estrada]]></data>
+  <data name="de_spotpoint38_tooltip"><![CDATA[Ir al Monumento del Soldado]]></data>
+
+
+  <data name="de_pano52_title"><![CDATA[La Plaza de la Vigía]]></data>
+  <data name="de_spotpoint57_tooltip"><![CDATA[Ir a insignia de monumento]]></data>
+  <data name="de_spotpoint60_tooltip"><![CDATA[Ir al teatro Sauto]]></data>
+  <data name="de_spotpoint65_tooltip"><![CDATA[Ir a la oficina del Conservador]]></data>
+  <data name="de_spotpoint70_tooltip"><![CDATA[Ir al norte de la plaza]]></data>
+
+
+  <data name="de_pano58_title"><![CDATA[Teatro Sauto]]></data>
+  <data name="de_spotpoint61_tooltip"><![CDATA[Ir al centro]]></data>
+
+
+  <data name="de_pano63_title"><![CDATA[Oficina del Conservador de la Ciudad]]></data>
+  <data name="de_spotpoint66_tooltip"><![CDATA[Ir al centro]]></data>
+
+
+  <data name="de_pano67_title"><![CDATA[La Plaza de la Vigía]]></data>
+  <data name="de_spotpoint69_tooltip"><![CDATA[Ir al centro]]></data>
+  <data name="de_spotpoint73_tooltip"><![CDATA[Ir al Cafe Atenas]]></data>
+  <data name="de_spotpoint77_tooltip"><![CDATA[Ir al Museo]]></data>
+
+
+  <data name="de_pano71_title"><![CDATA[Cafe Atenas]]></data>
+  <data name="de_spotpoint74_tooltip"><![CDATA[Ir a la Plaza]]></data>
+
+
+  <data name="de_pano75_title"><![CDATA[Museo Provincial Palacio de Junco]]></data>
+  <data name="de_spotpoint78_tooltip"><![CDATA[Ir a la Plaza]]></data>
+
+
+  <data name="de_pano312_title"><![CDATA[La Plaza de la Vigía]]></data>
+  <data name="de_spotpoint316_tooltip"><![CDATA[Ir al Monumento del Soldado]]></data>
+
+
+	<data name="de_spotmap617_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap618_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap619_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap620_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap621_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap622_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap623_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap624_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap625_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap626_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap627_tooltip"><![CDATA[]]></data>
+
+
+	<data name="de_project_floor_title"><![CDATA[La Plaza de La Vigia - No te pierdas este Tour Virtual!]]></data>
+	<data name="de_spotmap158_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap159_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap160_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap161_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap162_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap163_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap164_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap165_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap166_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap167_tooltip"><![CDATA[]]></data>
+	<data name="de_spotmap317_tooltip"><![CDATA[]]></data>
+
+
+  <data name="de_gallery9navprev_text"><![CDATA[Anterior]]></data>
+  <data name="de_gallery9navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="de_gallery9close_text"><![CDATA[Cerrar]]></data>
+  <data name="de_gallery1picture_title0"><![CDATA[]]></data>
+  <data name="de_gallery1picture_caption0"><![CDATA[]]></data>
+  <data name="de_gallery8navprev_text"><![CDATA[Anterior]]></data>
+  <data name="de_gallery8navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="de_gallery8close_text"><![CDATA[Cerrar]]></data>
+  <data name="de_gallery1picture_title0"><![CDATA[]]></data>
+  <data name="de_gallery1picture_caption0"><![CDATA[]]></data>
+  <data name="de_gallery7navprev_text"><![CDATA[Anterior]]></data>
+  <data name="de_gallery7navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="de_gallery7close_text"><![CDATA[Cerrar]]></data>
+  <data name="de_gallery1picture_title0"><![CDATA[]]></data>
+  <data name="de_gallery1picture_caption0"><![CDATA[]]></data>
+  <data name="de_gallery6navprev_text"><![CDATA[Anterior]]></data>
+  <data name="de_gallery6navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="de_gallery6close_text"><![CDATA[Cerrar]]></data>
+  <data name="de_gallery1picture_title0"><![CDATA[]]></data>
+  <data name="de_gallery1picture_caption0"><![CDATA[]]></data>
+  <data name="de_gallery5picture_title1"><![CDATA[]]></data>
+  <data name="de_gallery5picture_caption1"><![CDATA[]]></data>
+  <data name="de_gallery4navprev_text"><![CDATA[Anterior]]></data>
+  <data name="de_gallery4navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="de_gallery4close_text"><![CDATA[Cerrar]]></data>
+  <data name="de_gallery1picture_title0"><![CDATA[]]></data>
+  <data name="de_gallery1picture_caption0"><![CDATA[]]></data>
+  <data name="de_gallery3navprev_text"><![CDATA[Anterior]]></data>
+  <data name="de_gallery3navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="de_gallery3close_text"><![CDATA[Cerrar]]></data>
+  <data name="de_gallery1picture_title0"><![CDATA[]]></data>
+  <data name="de_gallery1picture_caption0"><![CDATA[]]></data>
+  <data name="de_gallery2navprev_text"><![CDATA[Anterior]]></data>
+  <data name="de_gallery2navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="de_gallery2close_text"><![CDATA[Cerrar]]></data>
+  <data name="de_gallery1picture_title0"><![CDATA[]]></data>
+  <data name="de_gallery1picture_caption0"><![CDATA[]]></data>
+  <data name="de_gallery1navprev_text"><![CDATA[Anterior]]></data>
+  <data name="de_gallery1navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="de_gallery1close_text"><![CDATA[Cerrar]]></data>
+  <data name="de_gallery1picture_title0"><![CDATA[]]></data>
+  <data name="de_gallery1picture_caption0"><![CDATA[]]></data>
+  <data name="de_gallerynavprev_text"><![CDATA[Anterior]]></data>
+  <data name="de_gallerynavnext_text"><![CDATA[Siguiente]]></data>
+  <data name="de_galleryclose_text"><![CDATA[Cerrar]]></data>
+  <data name="de_gallerypicture_title0"><![CDATA[]]></data>
+  <data name="de_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="de_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="de_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="de_gallerypicture_title2"><![CDATA[]]></data>
+  <data name="de_gallerypicture_caption2"><![CDATA[]]></data>
+  <data name="de_gallerypicture_title3"><![CDATA[]]></data>
+  <data name="de_gallerypicture_caption3"><![CDATA[]]></data>
+  <data name="de_gallerypicture_title4"><![CDATA[]]></data>
+  <data name="de_gallerypicture_caption4"><![CDATA[]]></data>
+  <data name="de_CirclesControlBarautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="de_CirclesControlBarautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="de_CirclesControlBardisplayFloorplanTip"><![CDATA[Show floorplan]]></data>
+  <data name="de_CirclesControlBarhideFloorplanTip"><![CDATA[Hide floorplan]]></data>
+  <data name="de_CirclesControlBardisplayInfoTip"><![CDATA[Show information]]></data>
+  <data name="de_CirclesControlBarhideInfoTip"><![CDATA[Hide information]]></data>
+  <data name="de_CirclesControlBardisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="de_CirclesControlBarhideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="de_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="de_buttontooltip"><![CDATA[Español]]></data>
+  <data name="de_buttononclick10597changetourlanguagelang"><![CDATA[es]]></data>
+  <data name="de_button1tooltip"><![CDATA[English]]></data>
+  <data name="de_button1onclick106776changetourlanguagelang"><![CDATA[en]]></data>
+  <data name="de_button2tooltip"><![CDATA[Francais]]></data>
+  <data name="de_button2onclick107893changetourlanguagelang"><![CDATA[fr]]></data>
+  <data name="de_button3tooltip"><![CDATA[Deutsch]]></data>
+  <data name="de_button3onclick106908changetourlanguagelang"><![CDATA[de]]></data>
+  <data name="de_button4tooltip"><![CDATA[Italiano]]></data>
+  <data name="de_button4onclick109868changetourlanguagelang"><![CDATA[it]]></data>
+  <data name="de_gallery10navprev_text"><![CDATA[Anterior]]></data>
+  <data name="de_gallery10navnext_text"><![CDATA[Siguiente]]></data>
+  <data name="de_gallery10close_text"><![CDATA[Cerrar]]></data>
+  <data name="de_gallery10picture_title0"><![CDATA[En cada arista de la base del monumento hay una placa.]]></data>
+  <data name="de_gallery10picture_caption0"><![CDATA[Inscripción por el lado este:]]></data>
+  <data name="de_gallery10picture_title1"><![CDATA[]]></data>
+  <data name="de_gallery10picture_caption1"><![CDATA[Inscripción por el lado sur:]]></data>
+  <data name="de_gallery10picture_title2"><![CDATA[]]></data>
+  <data name="de_gallery10picture_caption2"><![CDATA[Inscripción por el lado oeste:]]></data>
+  <data name="de_gallery10picture_title3"><![CDATA[]]></data>
+  <data name="de_gallery10picture_caption3"><![CDATA[Inscripción por el lado norte:]]></data>
+
+
+  <data name="de_vr_setup_hmd0"><![CDATA[SELECCIONE SU HMD]]></data>
+  <data name="de_vr_setup_advanced"><![CDATA[CONFIGURACIÓN AVANZADA]]></data>
+  <data name="de_vr_setup_title"><![CDATA[CONFIGURACIÓN WEB VR]]></data>
+  <data name="de_vr_setup_dvn1"><![CDATA[Dispositivo:]]></data>
+  <data name="de_vr_setup_siz1"><![CDATA[Tamaño de pantalla:]]></data>
+  <data name="de_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="de_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="de_vr_setup_hmd3"><![CDATA[Personalizar]]></data>
+  <data name="de_vr_setup_cal"><![CDATA[Calibrar el giroscopio]]></data>
+  <data name="de_vr_setup_sav"><![CDATA[GUARDAR]]></data>
+  <data name="de_vr_setup_rst"><![CDATA[REINICIO]]></data>
+  <data name="de_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="de_vr_setup_cls"><![CDATA[CERRAR]]></data>
+  <data name="de_vr_setup_m31"><![CDATA[CONFIGURACIÓN HMD]]></data>
+  <data name="de_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="de_vr_setup_dst1"><![CDATA[Distorsión:]]></data>
+  <data name="de_vr_setup_d2tx"><![CDATA[Distorsión 2:]]></data>
+  <data name="de_vr_setup_vig1"><![CDATA[Viñeteado:]]></data>
+  <data name="de_vr_setup_cac1"><![CDATA[Aberración cromática:]]></data>
+  <data name="de_vr_setup_olp1"><![CDATA[Superposición:]]></data>
+  <data name="de_vr_setup_m35"><![CDATA[RETORNO]]></data>
+  <data name="de_vr_setup_cb1"><![CDATA[GIROSCOPIO]]></data>
+  <data name="de_vr_setup_cb2"><![CDATA[Coloque el dispositivo sobre una superficie plana y [br ] y estable y pulse CALIBRAR[br] para corregir la deriva del giroscopio.]]></data>
+  <data name="de_vr_setup_cb3"><![CDATA[CALIBRAR]]></data>
+  <data name="de_vr_setup_cb4"><![CDATA[REINICIO]]></data>
+  <data name="de_vr_setup_cb5"><![CDATA[RETORNO]]></data>
+  <data name="de_vr_setup_cb6"><![CDATA[Calibrando...]]></data>
+  <data name="de_vr_setup_cb7"><![CDATA[Calibración exitosa]]></data>
+  <data name="de_vr_setup_cb8"><![CDATA[Calibración fracasada]]></data>
+  <data name="de_vr_setup_unavailable"><![CDATA[El modo VR no está disponible en tu dispositivo]]></data>
+
+
+  <data name="de_project_description"><![CDATA[<p><font face="verdana, sans-serif">Es war die erste Plaza de Armas, die in der Stadt errichtet wurde und als Grundstein für die heutige Stadt Matanzas gilt.</font></p><p><o:p></o:p></p>]]></data>
+
+
+  <data name="de_pano20_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Es war die erste Plaza de Armas, die in der Stadt errichtet wurde. An diesem Ort wurde die Stadt am 10. Oktober 1693 gegründet, und von hier aus wurde die Anlage der wichtigsten Zufahrtsstraßen begonnen, weshalb er als der Gründungskern der heutigen Stadt gilt. Ihren Namen verdankt sie dem Standort der Festung La Vigía, die 1748 erbaut und 1862 abgerissen wurde. Am 11. Oktober 2013, am Vorabend des 320-jährigen Jubiläums der Stadt, wurde das historische Zentrum von Matanzas zum Nationaldenkmal erklärt.</span>]]></data>
+
+
+
+  <data name="de_pano22_description"><![CDATA[<p><font face="verdana, sans-serif">Dieses Gebäude im eklektischen Stil wurde in den frühen 1880er Jahren erbaut. Als eines der repräsentativsten Gebäude der Stadt gilt es als von hohem historischem und architektonischem Wert. Ursprünglich diente es kommerziellen Zwecken, doch heute werden seine Räume von verschiedenen sozialen und kulturellen Einrichtungen genutzt, wie der Kunstgalerie „Pedro Esquerré“, dem Provinzzentrum für kulturelles Erbe, der Cafeteria und dem Keller „La Vigía“, sowie im Obergeschoss von drei Häusern.</font></p><p><o:p></o:p></p>]]></data>
+
+
+
+  <data name="de_pano31_description"><![CDATA[<p><font face="verdana, sans-serif">Im ersten Jahrzehnt des 20. Jahrhunderts wurde dank der Bemühungen des Zentrums für Unabhängigkeitsveteranen der Stadt Matanzas und finanziert durch Spenden aus der Bevölkerung die Statue des Unbekannten Soldaten aus Carrara-Marmor von dem italienischen Bildhauer Carlo Nicoli angefertigt, die am 10. Oktober 1919 in der Mitte eines kleinen Parks auf dem Platz eingeweiht wurde und seither an diesem Ort ruht.</font></p><p><o:p></o:p></p>]]></data>
+
+
+
+  <data name="de_pano36_description"><![CDATA[<p><font face="verdana, sans-serif">Es wurde am 12. August 1900 eingeweiht und wird heute noch von der Feuerwehr der Stadt bewohnt. Es teilt sich den Raum mit einem kleinen Museum, das allegorisch für die Tätigkeit ist, mit wichtigen Stücken aus den verschiedenen Phasen ihrer Geschichte. Im Jahr 2023 wurde das Gebäude mit dem Nationalen Preis für Denkmalpflege ausgezeichnet, weil es ein einzigartiger und außergewöhnlicher Vertreter des neoklassizistischen Stils von Matanzas ist und weil in seinem Inneren eine Sammlung von mehr als 3.500 historischen Gegenständen aufbewahrt wird, die mit dem edlen Beruf des Feuerwehrmanns verbunden sind.</font></p><p><o:p></o:p></p>]]></data>
+
+
+
+  <data name="de_pano52_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Es war die erste Plaza de Armas, die in der Stadt errichtet wurde. An diesem Ort wurde die Stadt am 10. Oktober 1693 gegründet, und von hier aus wurde die Anlage der wichtigsten Zufahrtsstraßen begonnen, weshalb er als der Gründungskern der heutigen Stadt gilt. Ihren Namen verdankt sie dem Standort der Festung La Vigía, die 1748 erbaut und 1862 abgerissen wurde. Am 11. Oktober 2013, am Vorabend des 320-jährigen Jubiläums der Stadt, wurde das historische Zentrum von Matanzas zum Nationaldenkmal erklärt.</span>]]></data>
+
+
+
+  <data name="de_pano58_description"><![CDATA[<p><font face="verdana, sans-serif">Gebäude im neoklassizistischen Stil, das für seine hervorragende Innenakustik bekannt ist. Es wurde am 6. April 1863 unter dem Namen Esteban zu Ehren des damaligen Zivilgouverneurs von Matanzas gegründet, nahm jedoch bald den Nachnamen von Ambrosio de la Concepción Sauto an, der einer der Hauptaktionäre und Förderer des Baus war. Das Projekt wurde von dem italienischen Architekten Daniel Dall'Aglio entworfen. Seit seiner Eröffnung war es Schauplatz wichtiger kultureller Veranstaltungen, und auf seiner Bühne sind Künstler von nationaler und weltweiter Bedeutung aufgetreten. Am 10. Oktober 1978 wurde es zum Nationaldenkmal erklärt.</font></p><p><o:p></o:p></p>]]></data>
+
+
+
+  <data name="de_pano63_description"><![CDATA[<div><font face="verdana, sans-serif">Dieses einstöckige Gebäude wurde 1826 von Julio Sagebien für das Landzollamt im Hafen von Matanzas errichtet. Es ist das erste neoklassizistische Gebäude in Kuba, von dem aus dieser Stil in das Land eingeführt wurde. Zwischen 1904 und 1911 wurde es in seiner heutigen Form umgebaut, um den Justizpalast oder das Stadtgericht zu beherbergen. Gegenwärtig befindet sich dort das Büro des Stadtkonservators.</font></div>]]></data>
+
+
+
+  <data name="de_pano67_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Es war die erste Plaza de Armas, die in der Stadt errichtet wurde. An diesem Ort wurde die Stadt am 10. Oktober 1693 gegründet, und von hier aus wurde die Anlage der wichtigsten Zufahrtsstraßen begonnen, weshalb er als der Gründungskern der heutigen Stadt gilt. Ihren Namen verdankt sie dem Standort der Festung La Vigía, die 1748 erbaut und 1862 abgerissen wurde. Am 11. Oktober 2013, am Vorabend des 320-jährigen Jubiläums der Stadt, wurde das historische Zentrum von Matanzas zum Nationaldenkmal erklärt.</span>]]></data>
+
+
+
+  <data name="de_pano71_description"><![CDATA[<p><font face="verdana, sans-serif">Dieses Gebäude wurde zu Ehren des 325-jährigen Stadtjubiläums umgebaut und ist heute mit einem antiken Thema dekoriert, das an die Anfänge und die Entwicklung der Stadt erinnert. Heute ist es ein Restaurant mit abwechslungsreicher Küche, das zur Kette PALMARES gehört.</font><o:p></o:p></p>]]></data>
+
+
+
+  <data name="de_pano75_description"><![CDATA[<font face="verdana, sans-serif">Es wurde 1838 erbaut und diente der Familie des wohlhabenden Vicente del Junco y Sardiñas als Wohnsitz, der große Ländereien und Zuckermühlen besaß. Ein Teil seiner Familie bewohnte das Gebäude bis Anfang der 1970er Jahre, als es in den Besitz des kubanischen Staates überging. Nach mehreren Jahren der Restaurierung wurde es 1980 als Provinzmuseum eröffnet. In mehr als zehn Ausstellungsräumen, die in chronologischer Reihenfolge angeordnet sind, werden die wichtigsten historischen Ereignisse der Provinz erzählt.</font>]]></data>
+
+
+
+  <data name="de_pano312_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Es war die erste Plaza de Armas, die in der Stadt errichtet wurde. An diesem Ort wurde die Stadt am 10. Oktober 1693 gegründet, und von hier aus wurde die Anlage der wichtigsten Zufahrtsstraßen begonnen, weshalb er als der Gründungskern der heutigen Stadt gilt. Ihren Namen verdankt sie dem Standort der Festung La Vigía, die 1748 erbaut und 1862 abgerissen wurde. Am 11. Oktober 2013, am Vorabend des 320-jährigen Jubiläums der Stadt, wurde das historische Zentrum von Matanzas zum Nationaldenkmal erklärt.</span>]]></data>
+
+
+</krpano>
