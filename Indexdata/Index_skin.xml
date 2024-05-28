@@ -1934,8 +1934,8 @@
 		<option name="overlay_color" value="000000" type="string" />
 		<option name="overlay_alpha" value="0.50000762951094835" type="float" />
 
-		<option name="area_width" value="60" type="int" />
-		<option name="area_height" value="40" type="int" />
+		<option name="area_width" value="50" type="int" />
+		<option name="area_height" value="75" type="int" />
 		<option name="area_width_unit" value="percent" type="string" />
 		<option name="area_height_unit" value="percent" type="string" />
 		<option name="animation" value="true" type="bool" />
@@ -2487,8 +2487,8 @@ floorPlanActivateDefaultSpot();););
 		<option name="area_border_width" value="0" type="int" />
 		<option name="area_border_color" value="f2f2f2" type="string" />
 		<option name="area_border_alpha" value="1" type="float" />
-		<option name="area_width" value="40" type="int" />
-		<option name="area_height" value="60" type="int" />
+		<option name="area_width" value="50" type="int" />
+		<option name="area_height" value="75" type="int" />
 		<option name="area_width_unit" value="percent" type="string" />
 		<option name="area_height_unit" value="percent" type="string" />
 		<option name="animation" value="true" type="bool" />
@@ -3120,11 +3120,6 @@ floorPlanActivateDefaultSpot();););
     ););
   </action>
 
-
-  <!-- FLOORPLAN -->
-  <action name="hideFloorplan">set(tour_displayfloorplan, false);events.dispatch(onhidetourfloorplan);</action>
-  <action name="showFloorplan">set(tour_displayfloorplan, true); events.dispatch(onshowtourfloorplan);</action>
-
 <action name="setTourLanguage">
   if (%1 == null,
     showlog();
@@ -3135,5 +3130,10 @@ floorPlanActivateDefaultSpot();););
     events.dispatch(changetourlanguage);
   );
 </action>
+
+  <!-- FLOORPLAN -->
+  <action name="hideFloorplan">set(tour_displayfloorplan, false);events.dispatch(onhidetourfloorplan);</action>
+  <action name="showFloorplan">set(tour_displayfloorplan, true); events.dispatch(onshowtourfloorplan);</action>
+
 
 </krpano>
