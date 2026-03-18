@@ -5,7 +5,7 @@
 <!--         Messages         -->
 <!-- ************************ -->
 
-  <data name="es_project_title"><![CDATA[La Plaza de La Vigia]]></data>
+  <data name="es_project_title"><![CDATA[La Plaza de La Vigia - No te pierdas este Tour Virtual!]]></data>
   <data name="es_project_author_name"><![CDATA[Camilo Hdez.Perez]]></data>
 
 
@@ -36,7 +36,6 @@
   <data name="es_spotpoint57_tooltip"><![CDATA[Ir a insignia de monumento]]></data>
   <data name="es_spotpoint60_tooltip"><![CDATA[Ir al teatro Sauto]]></data>
   <data name="es_spotpoint65_tooltip"><![CDATA[Ir a la oficina del Conservador]]></data>
-  <data name="es_spotpoint65openurlwebsiteurl"><![CDATA[https://laplazadelavigia-mtzas.on.drv.tw/justicia/]]></data>
   <data name="es_spotpoint70_tooltip"><![CDATA[Ir al norte de la plaza]]></data>
 
 
@@ -55,11 +54,11 @@
 
 
   <data name="es_pano71_title"><![CDATA[Cafe Atenas]]></data>
-  <data name="es_spotpoint74_tooltip"><![CDATA[Ir al norte de la plaza]]></data>
+  <data name="es_spotpoint74_tooltip"><![CDATA[Ir a la Plaza]]></data>
 
 
   <data name="es_pano75_title"><![CDATA[Museo Provincial Palacio de Junco]]></data>
-  <data name="es_spotpoint78_tooltip"><![CDATA[Ir al norte de la plaza]]></data>
+  <data name="es_spotpoint78_tooltip"><![CDATA[Ir a la Plaza]]></data>
 
 
   <data name="es_pano312_title"><![CDATA[La Plaza de la Vigía]]></data>
@@ -79,7 +78,7 @@
 	<data name="es_spotmap627_tooltip"><![CDATA[]]></data>
 
 
-	<data name="es_project_floor_title"><![CDATA[La Plaza de La Vigia]]></data>
+	<data name="es_project_floor_title"><![CDATA[La Plaza de La Vigia - No te pierdas este Tour Virtual!]]></data>
 	<data name="es_spotmap158_tooltip"><![CDATA[]]></data>
 	<data name="es_spotmap159_tooltip"><![CDATA[]]></data>
 	<data name="es_spotmap160_tooltip"><![CDATA[]]></data>
@@ -148,14 +147,14 @@
   <data name="es_gallerypicture_caption3"><![CDATA[]]></data>
   <data name="es_gallerypicture_title4"><![CDATA[]]></data>
   <data name="es_gallerypicture_caption4"><![CDATA[]]></data>
-  <data name="es_CirclesControlBarautorotateOnTip"><![CDATA[Start autorotation]]></data>
-  <data name="es_CirclesControlBarautorotateOffTip"><![CDATA[Stop autorotation]]></data>
-  <data name="es_CirclesControlBardisplayFloorplanTip"><![CDATA[Show floorplan]]></data>
-  <data name="es_CirclesControlBarhideFloorplanTip"><![CDATA[Hide floorplan]]></data>
-  <data name="es_CirclesControlBardisplayInfoTip"><![CDATA[Show information]]></data>
-  <data name="es_CirclesControlBarhideInfoTip"><![CDATA[Hide information]]></data>
-  <data name="es_CirclesControlBardisplayControlsTip"><![CDATA[Show controls]]></data>
-  <data name="es_CirclesControlBarhideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="es_CirclesControlBarautorotateOnTip"><![CDATA[Iniciar autorotación]]></data>
+  <data name="es_CirclesControlBarautorotateOffTip"><![CDATA[Detener autorotación]]></data>
+  <data name="es_CirclesControlBardisplayFloorplanTip"><![CDATA[Mostrar plano de planta]]></data>
+  <data name="es_CirclesControlBarhideFloorplanTip"><![CDATA[Ocultar plano de planta]]></data>
+  <data name="es_CirclesControlBardisplayInfoTip"><![CDATA[Mostrar información]]></data>
+  <data name="es_CirclesControlBarhideInfoTip"><![CDATA[Ocultar información]]></data>
+  <data name="es_CirclesControlBardisplayControlsTip"><![CDATA[Mostrar controles]]></data>
+  <data name="es_CirclesControlBarhideControlsTip"><![CDATA[Ocultar controles]]></data>
   <data name="es_descriptiondescription_title"><![CDATA[]]></data>
   <data name="es_buttontooltip"><![CDATA[Español]]></data>
   <data name="es_buttononclick10597changetourlanguagelang"><![CDATA[es]]></data>

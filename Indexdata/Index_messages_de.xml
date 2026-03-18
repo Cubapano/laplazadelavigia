@@ -5,7 +5,7 @@
 <!--         Messages         -->
 <!-- ************************ -->
 
-  <data name="de_project_title"><![CDATA[La Plaza de La Vigia]]></data>
+  <data name="de_project_title"><![CDATA[La Plaza de La Vigia - No te pierdas este Tour Virtual!]]></data>
   <data name="de_project_author_name"><![CDATA[Camilo Hdez.Perez]]></data>
 
 
@@ -36,7 +36,6 @@
   <data name="de_spotpoint57_tooltip"><![CDATA[Ir a insignia de monumento]]></data>
   <data name="de_spotpoint60_tooltip"><![CDATA[Ir al teatro Sauto]]></data>
   <data name="de_spotpoint65_tooltip"><![CDATA[Ir a la oficina del Conservador]]></data>
-  <data name="de_spotpoint65openurlwebsiteurl"><![CDATA[https://laplazadelavigia-mtzas.on.drv.tw/justicia/]]></data>
   <data name="de_spotpoint70_tooltip"><![CDATA[Ir al norte de la plaza]]></data>
 
 
@@ -55,11 +54,11 @@
 
 
   <data name="de_pano71_title"><![CDATA[Cafe Atenas]]></data>
-  <data name="de_spotpoint74_tooltip"><![CDATA[Ir al norte de la plaza]]></data>
+  <data name="de_spotpoint74_tooltip"><![CDATA[Ir a la Plaza]]></data>
 
 
   <data name="de_pano75_title"><![CDATA[Museo Provincial Palacio de Junco]]></data>
-  <data name="de_spotpoint78_tooltip"><![CDATA[Ir al norte de la plaza]]></data>
+  <data name="de_spotpoint78_tooltip"><![CDATA[Ir a la Plaza]]></data>
 
 
   <data name="de_pano312_title"><![CDATA[La Plaza de la Vigía]]></data>
@@ -79,7 +78,7 @@
 	<data name="de_spotmap627_tooltip"><![CDATA[]]></data>
 
 
-	<data name="de_project_floor_title"><![CDATA[La Plaza de La Vigia]]></data>
+	<data name="de_project_floor_title"><![CDATA[La Plaza de La Vigia - No te pierdas este Tour Virtual!]]></data>
 	<data name="de_spotmap158_tooltip"><![CDATA[]]></data>
 	<data name="de_spotmap159_tooltip"><![CDATA[]]></data>
 	<data name="de_spotmap160_tooltip"><![CDATA[]]></data>
@@ -212,50 +211,50 @@
   <data name="de_vr_setup_unavailable"><![CDATA[El modo VR no está disponible en tu dispositivo]]></data>
 
 
-  <data name="de_project_description"><![CDATA[<p><font face="verdana, sans-serif">Fue la primera Plaza de Armas construida en la villa, considerada el núcleo fundacional de la actual ciudad de Matanzas.</font></p><p><o:p></o:p></p>]]></data>
+  <data name="de_project_description"><![CDATA[<p><font face="verdana, sans-serif">Es war die erste Plaza de Armas, die in der Stadt errichtet wurde und als Grundstein für die heutige Stadt Matanzas gilt.</font></p><p><o:p></o:p></p>]]></data>
 
 
-  <data name="de_pano20_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Fue la primera Plaza de Armas construida en la villa, en este sitio se fundó la ciudad el 10 de octubre de 1693, y a partir de ella se inicia el trazado de sus principales vías de acceso por lo que se considera el núcleo fundacional de la actual ciudad. Debe su nombre al emplazamiento en este lugar del Fuerte de la Vigía, edificado en 1748, y demolido en 1862. El 11 de octubre del 2013, en vísperas del 320 aniversario de la ciudad, es declarado Monumento Nacional el centro histórico de Matanzas.</span>]]></data>
-
-
-
-  <data name="de_pano22_description"><![CDATA[<p><font face="verdana, sans-serif">Esta edificación de estilo ecléctico fue construida en los primeros años de la década de 1880. Por ser una de las más representativas de la ciudad, es considerada de alto valor histórico y arquitectónico. Inicialmente cumplió funciones comerciales, pero en la actualidad sus espacios están ocupados por diferentes instituciones sociales y culturales, como la Galería de Arte “Pedro Esquerré”, el Centro Provincial de Patrimonio Cultural, la Cafetería y Sótano “La Vigía”, y en el piso superior tres casas de viviendas.</font></p><p><o:p></o:p></p>]]></data>
+  <data name="de_pano20_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Es war die erste Plaza de Armas, die in der Stadt errichtet wurde. An diesem Ort wurde die Stadt am 10. Oktober 1693 gegründet, und von hier aus wurde die Anlage der wichtigsten Zufahrtsstraßen begonnen, weshalb er als der Gründungskern der heutigen Stadt gilt. Ihren Namen verdankt sie dem Standort der Festung La Vigía, die 1748 erbaut und 1862 abgerissen wurde. Am 11. Oktober 2013, am Vorabend des 320-jährigen Jubiläums der Stadt, wurde das historische Zentrum von Matanzas zum Nationaldenkmal erklärt.</span>]]></data>
 
 
 
-  <data name="de_pano31_description"><![CDATA[<p><font face="verdana, sans-serif">Durante la primera década del siglo XX, por gestión del Centro de Veteranos de la Independencia de la ciudad de Matanzas, y costeada a suscripción popular es realizada en mármol de Carrara por el escultor italiano Carlo Nicoli, la estatua al Soldado Desconocido, que es inaugurada en el centro de un pequeño parque edificado en la plaza el 10 de octubre de 1919, y que desde entonces reposa en este lugar.</font></p><p><o:p></o:p></p>]]></data>
+  <data name="de_pano22_description"><![CDATA[<p><font face="verdana, sans-serif">Dieses Gebäude im eklektischen Stil wurde in den frühen 1880er Jahren erbaut. Als eines der repräsentativsten Gebäude der Stadt gilt es als von hohem historischem und architektonischem Wert. Ursprünglich diente es kommerziellen Zwecken, doch heute werden seine Räume von verschiedenen sozialen und kulturellen Einrichtungen genutzt, wie der Kunstgalerie „Pedro Esquerré“, dem Provinzzentrum für kulturelles Erbe, der Cafeteria und dem Keller „La Vigía“, sowie im Obergeschoss von drei Häusern.</font></p><p><o:p></o:p></p>]]></data>
 
 
 
-  <data name="de_pano36_description"><![CDATA[<p><font face="verdana, sans-serif">Inaugurado el 12 de agosto de 1900 y hoy aún ocupado por el Comando de Bomberos de la ciudad, comparte el espacio con un pequeño museo alegórico a la actividad con importantes piezas de las distintas etapas de su historia. Durante el 2023 el inmueble fue merecedor del Premio Nacional de Conservación por su carácter único y excepcional como representante tardío del Neoclásico matancero, y por preservar en su interior una colección de más de 3500 piezas patrimoniales, vinculadas al noble oficio del bombero.</font></p><p><o:p></o:p></p>]]></data>
+  <data name="de_pano31_description"><![CDATA[<p><font face="verdana, sans-serif">Im ersten Jahrzehnt des 20. Jahrhunderts wurde dank der Bemühungen des Zentrums für Unabhängigkeitsveteranen der Stadt Matanzas und finanziert durch Spenden aus der Bevölkerung die Statue des Unbekannten Soldaten aus Carrara-Marmor von dem italienischen Bildhauer Carlo Nicoli angefertigt, die am 10. Oktober 1919 in der Mitte eines kleinen Parks auf dem Platz eingeweiht wurde und seither an diesem Ort ruht.</font></p><p><o:p></o:p></p>]]></data>
 
 
 
-  <data name="de_pano52_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Fue la primera Plaza de Armas construida en la villa, en este sitio se fundó la ciudad el 10 de octubre de 1693, y a partir de ella se inicia el trazado de sus principales vías de acceso por lo que se considera el núcleo fundacional de la actual ciudad. Debe su nombre al emplazamiento en este lugar del Fuerte de la Vigía, edificado en 1748, y demolido en 1862. El 11 de octubre del 2013, en vísperas del 320 aniversario de la ciudad, es declarado Monumento Nacional el centro histórico de Matanzas.</span>]]></data>
+  <data name="de_pano36_description"><![CDATA[<p><font face="verdana, sans-serif">Es wurde am 12. August 1900 eingeweiht und wird heute noch von der Feuerwehr der Stadt bewohnt. Es teilt sich den Raum mit einem kleinen Museum, das allegorisch für die Tätigkeit ist, mit wichtigen Stücken aus den verschiedenen Phasen ihrer Geschichte. Im Jahr 2023 wurde das Gebäude mit dem Nationalen Preis für Denkmalpflege ausgezeichnet, weil es ein einzigartiger und außergewöhnlicher Vertreter des neoklassizistischen Stils von Matanzas ist und weil in seinem Inneren eine Sammlung von mehr als 3.500 historischen Gegenständen aufbewahrt wird, die mit dem edlen Beruf des Feuerwehrmanns verbunden sind.</font></p><p><o:p></o:p></p>]]></data>
 
 
 
-  <data name="de_pano58_description"><![CDATA[<p><font face="verdana, sans-serif">Edificación de estilo neoclásico afamado por su gran acústica interior. Fundado el 6 de abril de 1863 con el nombre de Esteban en honor al gobernador civil de Matanzas de ese momento, aunque pronto adoptó el apellido de Ambrosio de la Concepción Sauto, quien fue uno de los principales accionistas y promotores de su construcción.&nbsp;El proyecto fue concebido el arquitecto italiano Daniel Dall'Aglio.Desde su apertura ha sido sede de importantes eventos culturales y en su escenario han actuado artistas de resonancia nacional y universal. El 10 deoctubre de 1978 fue declarado Monumento Nacional.</font></p><p><o:p></o:p></p>]]></data>
+  <data name="de_pano52_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Es war die erste Plaza de Armas, die in der Stadt errichtet wurde. An diesem Ort wurde die Stadt am 10. Oktober 1693 gegründet, und von hier aus wurde die Anlage der wichtigsten Zufahrtsstraßen begonnen, weshalb er als der Gründungskern der heutigen Stadt gilt. Ihren Namen verdankt sie dem Standort der Festung La Vigía, die 1748 erbaut und 1862 abgerissen wurde. Am 11. Oktober 2013, am Vorabend des 320-jährigen Jubiläums der Stadt, wurde das historische Zentrum von Matanzas zum Nationaldenkmal erklärt.</span>]]></data>
 
 
 
-  <data name="de_pano63_description"><![CDATA[<div><font face="verdana, sans-serif">Edificio construido en 1826, en una sola planta, por Julio Sagebien para la aduana terrestre del puerto de Matanzas. Constituye el primer edificio Neoclásico de Cuba, a partir del cual se introduce este estilo en el país. Reformado como lo vemos hoy entre 1904 y 1911 para instalar en el mismo el Palacio de Justicia o Audiencia de la Ciudad. Actualmente es la Oficina del Conservador de la Ciudad</font></div>]]></data>
+  <data name="de_pano58_description"><![CDATA[<p><font face="verdana, sans-serif">Gebäude im neoklassizistischen Stil, das für seine hervorragende Innenakustik bekannt ist. Es wurde am 6. April 1863 unter dem Namen Esteban zu Ehren des damaligen Zivilgouverneurs von Matanzas gegründet, nahm jedoch bald den Nachnamen von Ambrosio de la Concepción Sauto an, der einer der Hauptaktionäre und Förderer des Baus war. Das Projekt wurde von dem italienischen Architekten Daniel Dall'Aglio entworfen. Seit seiner Eröffnung war es Schauplatz wichtiger kultureller Veranstaltungen, und auf seiner Bühne sind Künstler von nationaler und weltweiter Bedeutung aufgetreten. Am 10. Oktober 1978 wurde es zum Nationaldenkmal erklärt.</font></p><p><o:p></o:p></p>]]></data>
 
 
 
-  <data name="de_pano67_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Fue la primera Plaza de Armas construida en la villa, en este sitio se fundó la ciudad el 10 de octubre de 1693, y a partir de ella se inicia el trazado de sus principales vías de acceso por lo que se considera el núcleo fundacional de la actual ciudad. Debe su nombre al emplazamiento en este lugar del Fuerte de la Vigía, edificado en 1748, y demolido en 1862. El 11 de octubre del 2013, en vísperas del 320 aniversario de la ciudad, es declarado Monumento Nacional el centro histórico de Matanzas.</span>]]></data>
+  <data name="de_pano63_description"><![CDATA[<div><font face="verdana, sans-serif">Dieses einstöckige Gebäude wurde 1826 von Julio Sagebien für das Landzollamt im Hafen von Matanzas errichtet. Es ist das erste neoklassizistische Gebäude in Kuba, von dem aus dieser Stil in das Land eingeführt wurde. Zwischen 1904 und 1911 wurde es in seiner heutigen Form umgebaut, um den Justizpalast oder das Stadtgericht zu beherbergen. Gegenwärtig befindet sich dort das Büro des Stadtkonservators.</font></div>]]></data>
 
 
 
-  <data name="de_pano71_description"><![CDATA[<p><font face="verdana, sans-serif">Este inmueble fue remodelado en saludo al 325 aniversario de la ciudad, y hoy luce una decoración tematizada en antigüedades, que evoca los inicios y el desarrollo de la urbe citadina. En la actualidad funciona como un restaurante de comida variada perteneciente a la cadena PALMARES.</font><o:p></o:p></p>]]></data>
+  <data name="de_pano67_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Es war die erste Plaza de Armas, die in der Stadt errichtet wurde. An diesem Ort wurde die Stadt am 10. Oktober 1693 gegründet, und von hier aus wurde die Anlage der wichtigsten Zufahrtsstraßen begonnen, weshalb er als der Gründungskern der heutigen Stadt gilt. Ihren Namen verdankt sie dem Standort der Festung La Vigía, die 1748 erbaut und 1862 abgerissen wurde. Am 11. Oktober 2013, am Vorabend des 320-jährigen Jubiläums der Stadt, wurde das historische Zentrum von Matanzas zum Nationaldenkmal erklärt.</span>]]></data>
 
 
 
-  <data name="de_pano75_description"><![CDATA[<font face="verdana, sans-serif">Construido en 1838 fue la morada de la familiadel acaudalado Vicente del Junco y Sardiñas, dueño de grandes extensiones de tierra e ingenios azucareros. Parte de su familia vivió en el inmueble hasta principios de la década de 1970, fecha en que pasa a los fondos inmobiliarios del estado cubano, y que luego de algunos años de restauración, en 1980 abrió sus puertas como museo provincial. Más de una decena de salas de exposición, dispuestas en orden cronológico narran los principales acontecimientos históricos de la provincia.</font>]]></data>
+  <data name="de_pano71_description"><![CDATA[<p><font face="verdana, sans-serif">Dieses Gebäude wurde zu Ehren des 325-jährigen Stadtjubiläums umgebaut und ist heute mit einem antiken Thema dekoriert, das an die Anfänge und die Entwicklung der Stadt erinnert. Heute ist es ein Restaurant mit abwechslungsreicher Küche, das zur Kette PALMARES gehört.</font><o:p></o:p></p>]]></data>
 
 
 
-  <data name="de_pano312_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Fue la primera Plaza de Armas construida en la villa, en este sitio se fundó la ciudad el 10 de octubre de 1693, y a partir de ella se inicia el trazado de sus principales vías de acceso por lo que se considera el núcleo fundacional de la actual ciudad. Debe su nombre al emplazamiento en este lugar del Fuerte de la Vigía, edificado en 1748, y demolido en 1862. El 11 de octubre del 2013, en vísperas del 320 aniversario de la ciudad, es declarado Monumento Nacional el centro histórico de Matanzas.</span>]]></data>
+  <data name="de_pano75_description"><![CDATA[<font face="verdana, sans-serif">Es wurde 1838 erbaut und diente der Familie des wohlhabenden Vicente del Junco y Sardiñas als Wohnsitz, der große Ländereien und Zuckermühlen besaß. Ein Teil seiner Familie bewohnte das Gebäude bis Anfang der 1970er Jahre, als es in den Besitz des kubanischen Staates überging. Nach mehreren Jahren der Restaurierung wurde es 1980 als Provinzmuseum eröffnet. In mehr als zehn Ausstellungsräumen, die in chronologischer Reihenfolge angeordnet sind, werden die wichtigsten historischen Ereignisse der Provinz erzählt.</font>]]></data>
+
+
+
+  <data name="de_pano312_description"><![CDATA[<span style="font-family: verdana, sans-serif;">Es war die erste Plaza de Armas, die in der Stadt errichtet wurde. An diesem Ort wurde die Stadt am 10. Oktober 1693 gegründet, und von hier aus wurde die Anlage der wichtigsten Zufahrtsstraßen begonnen, weshalb er als der Gründungskern der heutigen Stadt gilt. Ihren Namen verdankt sie dem Standort der Festung La Vigía, die 1748 erbaut und 1862 abgerissen wurde. Am 11. Oktober 2013, am Vorabend des 320-jährigen Jubiläums der Stadt, wurde das historische Zentrum von Matanzas zum Nationaldenkmal erklärt.</span>]]></data>
 
 
 </krpano>

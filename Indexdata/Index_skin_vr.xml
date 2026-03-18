@@ -435,21 +435,6 @@
   <action name="hideFloorplan">set(tour_displayfloorplan, false);events.dispatch(onhidetourfloorplan);</action>
   <action name="showFloorplan">set(tour_displayfloorplan, true); events.dispatch(onshowtourfloorplan);</action>
 
-<action name="setTourLanguage">
-  if (%1 == null,
-    showlog();
-    trace("CHANGE TOUR LANGUAGE : NO LANGUAGE SET");
-   ,
-    set(tour_language, %1);
-    js(eventTourChangeLanguage(get(tour_language)));
-    events.dispatch(changetourlanguage);
-  );
-</action>
-
-  <!-- Hide / Show Controls -->
-  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
-  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
-
 
   <action name="displayImage">
     if (layer[displayedStandardImage],
@@ -628,9 +613,24 @@
   </action>
 
 
+  <!-- Hide / Show Controls -->
+  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
+  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
+
+
   <!-- Tour Information -->
   <action name="hideTourInfo">set(tour_displayinfo, false);events.dispatch(onhidetourinfo);</action>
   <action name="showTourInfo">set(tour_displayinfo, true); events.dispatch(onshowtourinfo);</action>
 
+<action name="setTourLanguage">
+  if (%1 == null,
+    showlog();
+    trace("CHANGE TOUR LANGUAGE : NO LANGUAGE SET");
+   ,
+    set(tour_language, %1);
+    js(eventTourChangeLanguage(get(tour_language)));
+    events.dispatch(changetourlanguage);
+  );
+</action>
 
 </krpano>

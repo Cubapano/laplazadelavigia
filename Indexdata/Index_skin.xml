@@ -519,7 +519,7 @@
 		<option name="use_i18n" value="true" type="bool" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="Indexdata/graphics/gallery9/justicia5p.jpg"/>
+		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="indexdata/graphics/gallery9/justicia5p.jpg"/>
 	</internaldata>
 </ptplugin>
 
@@ -649,7 +649,7 @@
 		<option name="use_i18n" value="true" type="bool" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="Indexdata/graphics/gallery8/justicia4p.jpg"/>
+		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="indexdata/graphics/gallery8/justicia4p.jpg"/>
 	</internaldata>
 </ptplugin>
 
@@ -779,7 +779,7 @@
 		<option name="use_i18n" value="true" type="bool" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="Indexdata/graphics/gallery7/justicia3p.jpg"/>
+		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="indexdata/graphics/gallery7/justicia3p.jpg"/>
 	</internaldata>
 </ptplugin>
 
@@ -909,8 +909,8 @@
 		<option name="use_i18n" value="true" type="bool" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="Indexdata/graphics/gallery6/justicia1-p.jpg"/>
-		<item name="item_2" title="gallery5picture_title1" caption="gallery5picture_caption1" value="Indexdata/graphics/gallery6/justicia2-p.jpg"/>
+		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="indexdata/graphics/gallery6/justicia1-p.jpg"/>
+		<item name="item_2" title="gallery5picture_title1" caption="gallery5picture_caption1" value="indexdata/graphics/gallery6/justicia2-p.jpg"/>
 	</internaldata>
 </ptplugin>
 
@@ -1040,7 +1040,7 @@
 		<option name="use_i18n" value="true" type="bool" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="Indexdata/graphics/gallery4/insigniasauto-p.jpg"/>
+		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="indexdata/graphics/gallery4/insigniasauto-p.jpg"/>
 	</internaldata>
 </ptplugin>
 
@@ -1170,7 +1170,7 @@
 		<option name="use_i18n" value="true" type="bool" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="Indexdata/graphics/gallery3/sautoagradece-p.jpg"/>
+		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="indexdata/graphics/gallery3/sautoagradece-p.jpg"/>
 	</internaldata>
 </ptplugin>
 
@@ -1300,7 +1300,7 @@
 		<option name="use_i18n" value="true" type="bool" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="Indexdata/graphics/gallery2/sautoinagural-p.jpg"/>
+		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="indexdata/graphics/gallery2/sautoinagural-p.jpg"/>
 	</internaldata>
 </ptplugin>
 
@@ -1430,7 +1430,7 @@
 		<option name="use_i18n" value="true" type="bool" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="Indexdata/graphics/gallery1/_330p.jpg"/>
+		<item name="item_1" title="gallery1picture_title0" caption="gallery1picture_caption0" value="indexdata/graphics/gallery1/_330p.jpg"/>
 	</internaldata>
 </ptplugin>
 
@@ -1560,11 +1560,11 @@
 		<option name="use_i18n" value="true" type="bool" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="gallerypicture_title0" caption="gallerypicture_caption0" value="Indexdata/graphics/gallery/_1p.jpg"/>
-		<item name="item_2" title="gallerypicture_title1" caption="gallerypicture_caption1" value="Indexdata/graphics/gallery/_2p.jpg"/>
-		<item name="item_3" title="gallerypicture_title2" caption="gallerypicture_caption2" value="Indexdata/graphics/gallery/_3p.jpg"/>
-		<item name="item_4" title="gallerypicture_title3" caption="gallerypicture_caption3" value="Indexdata/graphics/gallery/_4p.jpg"/>
-		<item name="item_5" title="gallerypicture_title4" caption="gallerypicture_caption4" value="Indexdata/graphics/gallery/_5p.jpg"/>
+		<item name="item_1" title="gallerypicture_title0" caption="gallerypicture_caption0" value="indexdata/graphics/gallery/_1p.jpg"/>
+		<item name="item_2" title="gallerypicture_title1" caption="gallerypicture_caption1" value="indexdata/graphics/gallery/_2p.jpg"/>
+		<item name="item_3" title="gallerypicture_title2" caption="gallerypicture_caption2" value="indexdata/graphics/gallery/_3p.jpg"/>
+		<item name="item_4" title="gallerypicture_title3" caption="gallerypicture_caption3" value="indexdata/graphics/gallery/_4p.jpg"/>
+		<item name="item_5" title="gallerypicture_title4" caption="gallerypicture_caption4" value="indexdata/graphics/gallery/_5p.jpg"/>
 	</internaldata>
 </ptplugin>
 
@@ -2909,10 +2909,10 @@ floorPlanActivateDefaultSpot();););
 		<option name="use_i18n" value="true" type="bool" />
 	</settings>
 	<internaldata>
-		<item name="item_1" title="gallery10picture_title0" caption="gallery10picture_caption0" value="Indexdata/graphics/gallery10/soldado4-estep.jpg"/>
-		<item name="item_2" title="gallery10picture_title1" caption="gallery10picture_caption1" value="Indexdata/graphics/gallery10/soldado1-surp.jpg"/>
-		<item name="item_3" title="gallery10picture_title2" caption="gallery10picture_caption2" value="Indexdata/graphics/gallery10/soldado2-oestep.jpg"/>
-		<item name="item_4" title="gallery10picture_title3" caption="gallery10picture_caption3" value="Indexdata/graphics/gallery10/soldado3-nortep.jpg"/>
+		<item name="item_1" title="gallery10picture_title0" caption="gallery10picture_caption0" value="indexdata/graphics/gallery10/soldado4-estep.jpg"/>
+		<item name="item_2" title="gallery10picture_title1" caption="gallery10picture_caption1" value="indexdata/graphics/gallery10/soldado1-surp.jpg"/>
+		<item name="item_3" title="gallery10picture_title2" caption="gallery10picture_caption2" value="indexdata/graphics/gallery10/soldado2-oestep.jpg"/>
+		<item name="item_4" title="gallery10picture_title3" caption="gallery10picture_caption3" value="indexdata/graphics/gallery10/soldado3-nortep.jpg"/>
 	</internaldata>
 </ptplugin>
 
@@ -2969,21 +2969,6 @@ floorPlanActivateDefaultSpot();););
   <!-- FLOORPLAN -->
   <action name="hideFloorplan">set(tour_displayfloorplan, false);events.dispatch(onhidetourfloorplan);</action>
   <action name="showFloorplan">set(tour_displayfloorplan, true); events.dispatch(onshowtourfloorplan);</action>
-
-<action name="setTourLanguage">
-  if (%1 == null,
-    showlog();
-    trace("CHANGE TOUR LANGUAGE : NO LANGUAGE SET");
-   ,
-    set(tour_language, %1);
-    js(eventTourChangeLanguage(get(tour_language)));
-    events.dispatch(changetourlanguage);
-  );
-</action>
-
-  <!-- Hide / Show Controls -->
-  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
-  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
 
 
   <action name="displayImage">
@@ -3163,9 +3148,24 @@ floorPlanActivateDefaultSpot();););
   </action>
 
 
+  <!-- Hide / Show Controls -->
+  <action name="hideTourControls">set(tour_displaycontrols, false);events.dispatch(hidetourcontrols);</action>
+  <action name="showTourControls">set(tour_displaycontrols, true); events.dispatch(showtourcontrols);</action>
+
+
   <!-- Tour Information -->
   <action name="hideTourInfo">set(tour_displayinfo, false);events.dispatch(onhidetourinfo);</action>
   <action name="showTourInfo">set(tour_displayinfo, true); events.dispatch(onshowtourinfo);</action>
 
+<action name="setTourLanguage">
+  if (%1 == null,
+    showlog();
+    trace("CHANGE TOUR LANGUAGE : NO LANGUAGE SET");
+   ,
+    set(tour_language, %1);
+    js(eventTourChangeLanguage(get(tour_language)));
+    events.dispatch(changetourlanguage);
+  );
+</action>
 
 </krpano>
